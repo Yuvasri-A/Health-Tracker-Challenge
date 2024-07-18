@@ -113,8 +113,3 @@ ng help
 or check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 
-### Contact
-
-For any questions, please contact [27manavgandhi@gmail.com](mailto:27manavgandhi@gmail.com).
-
-Happy coding!
